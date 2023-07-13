@@ -1,1 +1,1 @@
-# Modulo de SASS da EBAC
+# Módulo de SASS da EBAC
