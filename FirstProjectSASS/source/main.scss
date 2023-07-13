@@ -74,10 +74,10 @@ header {
       }
     }
   }
+}
 
-  @media screen and (max-width: variaveis.$mobile) {
-    .container {
-      max-width: 80%;
-    }
+@media screen and (max-width: variaveis.$mobile) {
+  .container {
+    max-width: 80%;
   }
 }
